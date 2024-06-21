@@ -1,5 +1,8 @@
 # 💫 Sobre mim:
-Bem-vindo ao Meu Perfil!<br>Olá! Eu sou Pedro De Lorenzo, um desenvolvedor apaixonado por transformar ideias em código. Estou curssando Engenharia de Software pela FIAP (Faculdade de Informática e Administração Paulista), tenho focado em projetos que unem minha paixão pela tecnologia com meu interesse em desenvolvimento web e análise de dados.<br><br>Minhas Habilidades:<br>Linguagens e Tecnologias: Trabalho principalmente com Python, JavaScript, HTML5, CSS e MySQL. Estou sempre aberto a aprender novas ferramentas e tecnologias para expandir meu conjunto de habilidades.<br><br><br>Welcome to My Profile!<br>Hello! I'm Pedro De Lorenzo, a developer passionate about turning ideas into code. I'm currently studying Software Engineering from FIAP (Faculdade de Informática e Administração Paulista), I've been focusing on projects that combine my love for technology with my interest in web development and data analysis.<br><br>My Skills:<br>Languages and Technologies: I primarily work with Python, JavaScript, HTML5, CSS, and MySQL. I'm always open to learning new tools and technologies to expand my skill set.
+Hello! I'm Pedro De Lorenzo, a developer passionate about turning ideas into code. I'm currently studying Software Engineering at FIAP (Faculdade de Informática e Administração Paulista), and I've been focusing on projects that combine my love for technology with my interest in web development and data analysis.
+
+My Skills:
+Languages and Technologies: I primarily work with Python, PHP, and MySQL. I'm always open to learning new tools and technologies to expand my skill set.
 
 
 ## 🌐 Socials:
