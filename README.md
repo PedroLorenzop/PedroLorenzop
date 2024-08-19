@@ -25,7 +25,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/PedroLorenzop/PedroLorenzop/output/snake.svg" alt="Snake animation" />
 
