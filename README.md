@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro
 
 🎓 Estudante de *Ciência da Computação* na [UNIRP](https://www.unirp.edu.br)  
-📱 Focado em *desenvolvimento mobile nativo* com *Kotlin*  
+📱 Focado em *desenvolvimento back-end* com *Java*  
 🚀 Apaixonado por criar experiências digitais práticas e eficientes
 
 ---
