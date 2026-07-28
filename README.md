@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro
 
-🎓 Estudante de *Ciência da Computação* na [UNIRP](https://www.unirp.edu.br)  
+🎓 Estudante de *ANALISE E DESENVOLVIMENTO DE SISTEMAS* na [UNIP](https://www.unip.br/)  
 📱 Focado em *desenvolvimento back-end* com *Java*  
 🚀 Apaixonado por criar experiências digitais práticas e eficientes
 
